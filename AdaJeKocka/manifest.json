@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AdaJeKocka",
+  "description": "Ada Je Kocka Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "AdaJeKocka.html",
+    "default_icon": "heart.png"
+  }
+}
